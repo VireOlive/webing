@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: webbing-dc
+    name: bing-wo-tsukau
     # oregon: frankfurt
     plan: free
     env: go
