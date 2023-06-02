@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: bing-wo-tsukau
+    name: bing-wo-tsukaou
     # oregon: frankfurt
     plan: free
     env: go
